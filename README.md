@@ -1,2 +1,2 @@
 # Alura-flix
-alura flix html e css
+alura flix praticando html e css. Gostei muito desse projeto.
