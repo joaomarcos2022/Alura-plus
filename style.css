@@ -27,7 +27,7 @@ body {
 .container {
     height: 100vh;
     display: grid;
-    grid-template-columns: 50%;
+    grid-template-columns: 50% 50%;
 }
 
 .container__botao {
@@ -37,6 +37,7 @@ body {
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao_secundario {
@@ -53,3 +54,13 @@ body {
     font-size: 28px;
     font-weight: 700;
 }
+
+.container__imagem {
+    margin: 1em 0 2em 0;
+}
+
+.container__caixa {
+    margin: 0 6em;
+}
+
+
