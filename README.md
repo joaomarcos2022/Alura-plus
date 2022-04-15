@@ -1,2 +1,3 @@
 # Alura-flix
-alura flix praticando html e css. Gostei muito desse projeto.  front end html e css
+È um projeto do curso praticando o HTML E CSS, e que foi desenvolvido uma pagina web com as informções da Alura flix.
+
