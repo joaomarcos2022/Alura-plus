@@ -4,6 +4,7 @@
     --botao-azul: hsl(213, 93%, 53%);
     --cor-de-fundo: #00030c ;
     --fonte-principal: 'Inter';
+    --botao-azul-efeito: #3c92fa;
 }
 
 body {
@@ -91,4 +92,8 @@ body {
     margin-top: 1em;
 }
 
+.container__descricao {
+
+    padding: 2em;
+}
 
